@@ -5,7 +5,7 @@
 
 PyTorch implementation of the paper "GLMDriveNet: Global-local Multimodal Fusion Driving Behavior Classification Network"
 
-This paper is published on IEEE Transactions on Computational Social Systems. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197623017591)
+This paper is published on ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE (EAAI). [Link](https://www.sciencedirect.com/science/article/abs/pii/S0952197623017591)
 
 
 ## **Changelog**
